@@ -1,6 +1,1 @@
-- [Home](/#docsifyjs-template)
-- [Fizz]()
-- [Buzz]()
-- Foo
-    * [Bar]()
-    * [Baz]()
+- [Introdução e integrantes](/#docsifyjs-template)
