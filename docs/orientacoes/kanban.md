@@ -18,6 +18,6 @@ Cada **item de backlog** passa por diferentes **"estados"** (registrados no Kanb
 Além disso, a atualização do estado de cada item de backlog possui um **responsável**.
 O diagrama, abaixo, ilustra a relação entre responsáveis e estados.
 
-![Kanban](_imagens/kanban.jpg?raw=true)
+![Kanban](../_imagens/kanban.jpg?raw=True)
 
->Última atualização: 04/05/2022
+>Última atualização: 15/06/2022
