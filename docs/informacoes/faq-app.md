@@ -1,4 +1,4 @@
-# FAQ Quiz UnB
+# FAQ UnB
 
 **1. No meu aplicativo não está aparecendo os quizzes, o que devo fazer?**
 
@@ -47,3 +47,8 @@ Sim, será reprovado automaticamente, posto que o evento presencial é uma das a
 **12. Como são distribuídos os créditos da disciplina?**
 
 A disciplina é composta por 02 créditos, que entram como disciplina eletiva. Apenas para o curso de saúde coletiva irá contar como disciplina optativa.
+
+**Como contatar a equipe:**
+
+Quer entrar em contato com os Guardiões da Saúde? É fácil! Nossa equipe está sempre pronta para ajudar a comunidade universitária da UNB a cuidar da saúde e do bem-estar. Você pode nos encontrar no Instagram, seguindo @guardioesdasaudeunb. Lá, compartilhamos dicas úteis, informações sobre saúde e eventos especiais.
+Além disso, se você tiver alguma dúvida ou precisar de assistência, não hesite em nos enviar um e-mail para guardioesdasaude@unb.br. Nossa equipe estará feliz em responder às suas perguntas, oferecer orientação e fornecer suporte sempre que necessário.
